@@ -1,0 +1,6 @@
+framework module FileWavHelper {
+  umbrella header "FileWavHelper.h"
+  export *
+
+  module * { export * }
+}
